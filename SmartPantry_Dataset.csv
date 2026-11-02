@@ -1,0 +1,1201 @@
+Food_Type,Storage_Type,Days_Stored,Quantity_Remaining,Temperature,Humidity,Waste_Risk
+Milk,Refrigerator,7,65,7.0,68,Medium
+Cooked Food,Room Temperature,9,64,29.7,36,High
+Meat,Freezer,3,30,-13.0,86,Low
+Fruits,Room Temperature,9,82,27.4,41,High
+Fruits,Freezer,13,72,-10.8,95,High
+Leafy Vegetables,Room Temperature,2,78,29.0,51,Medium
+Milk,Freezer,5,52,-13.4,58,Low
+Meat,Refrigerator,10,91,2.7,44,High
+Bread,Room Temperature,9,45,25.4,85,Medium
+Milk,Refrigerator,10,83,6.5,79,High
+Fruits,Room Temperature,8,28,28.4,39,Medium
+Leafy Vegetables,Room Temperature,10,32,24.3,41,High
+Cooked Food,Freezer,9,57,-13.7,72,High
+Cooked Food,Freezer,2,60,-15.5,87,Low
+Cooked Food,Refrigerator,11,77,3.7,41,High
+Cooked Food,Room Temperature,7,37,22.2,48,High
+Fruits,Room Temperature,1,89,28.1,68,Low
+Milk,Refrigerator,6,40,2.5,41,Medium
+Cooked Food,Refrigerator,7,58,4.0,53,Medium
+Fruits,Refrigerator,2,94,3.4,35,Low
+Fruits,Room Temperature,14,59,22.2,65,High
+Vegetables,Refrigerator,4,72,6.5,78,Low
+Bread,Freezer,5,92,-7.8,60,Low
+Leafy Vegetables,Refrigerator,7,98,5.4,50,Medium
+Cooked Food,Freezer,12,55,-5.9,60,High
+Meat,Refrigerator,11,47,2.8,66,High
+Vegetables,Room Temperature,11,27,27.2,45,High
+Cooked Food,Refrigerator,4,58,7.2,41,Medium
+Fruits,Room Temperature,12,93,26.7,46,High
+Fruits,Freezer,12,54,-10.2,95,Medium
+Fruits,Freezer,7,41,-13.4,79,Low
+Bread,Freezer,8,19,-12.2,42,Low
+Milk,Refrigerator,1,45,3.5,53,Low
+Fruits,Refrigerator,11,31,3.4,60,Medium
+Leafy Vegetables,Refrigerator,14,98,7.9,46,High
+Milk,Refrigerator,7,58,6.2,86,Medium
+Leafy Vegetables,Room Temperature,8,22,24.6,92,High
+Cooked Food,Room Temperature,7,16,30.4,49,High
+Bread,Room Temperature,2,87,26.4,36,Low
+Meat,Freezer,9,94,-16.0,51,High
+Bread,Room Temperature,11,79,29.4,70,High
+Cooked Food,Freezer,13,21,-7.4,84,High
+Meat,Refrigerator,14,18,6.6,55,High
+Vegetables,Refrigerator,7,28,4.7,51,Medium
+Milk,Room Temperature,14,78,28.6,50,High
+Leafy Vegetables,Freezer,8,79,-14.5,35,Medium
+Fruits,Refrigerator,9,86,4.8,35,Medium
+Leafy Vegetables,Room Temperature,9,18,20.2,61,High
+Meat,Room Temperature,14,23,22.3,72,High
+Cooked Food,Refrigerator,11,91,3.5,35,High
+Cooked Food,Refrigerator,2,94,7.3,47,Low
+Bread,Freezer,2,76,-10.5,90,Low
+Vegetables,Room Temperature,6,19,22.2,95,Medium
+Fruits,Refrigerator,8,16,6.7,74,Medium
+Fruits,Freezer,10,15,-5.9,66,Medium
+Milk,Refrigerator,7,72,5.0,70,Medium
+Fruits,Freezer,8,86,-15.7,57,Medium
+Bread,Refrigerator,13,67,2.9,47,Medium
+Cooked Food,Room Temperature,5,33,31.5,57,Medium
+Meat,Refrigerator,7,78,3.6,77,High
+Leafy Vegetables,Refrigerator,8,15,5.6,75,Medium
+Cooked Food,Freezer,7,85,-16.6,76,Medium
+Vegetables,Refrigerator,14,91,3.5,72,High
+Leafy Vegetables,Refrigerator,14,75,7.3,38,High
+Vegetables,Refrigerator,8,90,4.2,73,Medium
+Vegetables,Room Temperature,7,63,26.1,88,Medium
+Leafy Vegetables,Freezer,9,52,-7.7,74,Medium
+Vegetables,Freezer,3,39,-16.2,70,Low
+Milk,Refrigerator,6,93,6.4,48,Medium
+Fruits,Refrigerator,4,73,4.7,83,Low
+Cooked Food,Refrigerator,3,27,2.1,62,Low
+Bread,Room Temperature,2,97,25.7,51,Low
+Fruits,Freezer,9,15,-5.7,64,Medium
+Milk,Room Temperature,1,63,30.3,42,Low
+Meat,Room Temperature,10,27,22.5,91,High
+Fruits,Refrigerator,7,70,7.4,77,Medium
+Vegetables,Freezer,6,47,-15.3,54,Low
+Bread,Refrigerator,11,49,5.7,83,Medium
+Fruits,Refrigerator,8,71,5.7,38,Medium
+Meat,Refrigerator,11,78,3.6,58,High
+Leafy Vegetables,Refrigerator,10,44,3.3,74,High
+Fruits,Refrigerator,1,100,2.7,36,Low
+Bread,Refrigerator,4,55,6.0,78,Low
+Cooked Food,Refrigerator,8,24,6.7,84,High
+Meat,Room Temperature,14,10,30.8,71,High
+Meat,Refrigerator,3,28,3.9,47,Low
+Milk,Refrigerator,2,72,3.2,80,Low
+Vegetables,Freezer,14,59,-16.1,55,High
+Cooked Food,Room Temperature,14,40,31.9,79,High
+Cooked Food,Room Temperature,3,53,27.3,73,Medium
+Fruits,Refrigerator,6,86,7.2,40,Medium
+Cooked Food,Freezer,9,62,-9.4,41,High
+Cooked Food,Refrigerator,3,15,7.1,35,Low
+Vegetables,Refrigerator,5,14,7.8,39,Low
+Leafy Vegetables,Freezer,6,53,-6.8,53,Medium
+Vegetables,Room Temperature,9,46,24.8,36,High
+Bread,Room Temperature,5,87,25.3,92,Medium
+Meat,Room Temperature,6,63,27.1,90,High
+Meat,Room Temperature,5,78,26.4,45,Medium
+Milk,Refrigerator,11,63,3.0,53,High
+Cooked Food,Refrigerator,3,41,7.7,80,Low
+Bread,Refrigerator,4,69,3.2,75,Low
+Cooked Food,Refrigerator,4,66,7.8,70,Medium
+Milk,Freezer,13,75,-9.9,95,High
+Cooked Food,Refrigerator,14,27,5.8,73,High
+Cooked Food,Room Temperature,8,68,21.5,75,High
+Cooked Food,Room Temperature,3,35,26.6,65,Medium
+Meat,Room Temperature,11,81,24.1,67,High
+Fruits,Refrigerator,7,82,3.1,52,Medium
+Meat,Refrigerator,12,66,7.6,66,High
+Bread,Freezer,6,96,-16.7,91,Low
+Cooked Food,Room Temperature,14,58,29.6,57,High
+Fruits,Freezer,12,12,-11.9,43,Medium
+Fruits,Freezer,4,65,-13.7,71,Low
+Fruits,Room Temperature,11,80,20.0,82,High
+Fruits,Refrigerator,5,19,5.8,93,Low
+Milk,Room Temperature,5,19,31.2,68,Medium
+Milk,Refrigerator,4,34,6.0,83,Medium
+Bread,Room Temperature,10,86,30.2,50,High
+Milk,Freezer,4,57,-10.6,60,Low
+Fruits,Room Temperature,9,98,29.9,60,High
+Meat,Refrigerator,9,89,4.0,55,High
+Meat,Refrigerator,11,60,4.0,78,High
+Fruits,Freezer,14,71,-9.2,88,High
+Cooked Food,Refrigerator,1,40,3.1,54,Low
+Fruits,Refrigerator,14,18,3.2,43,High
+Milk,Refrigerator,2,46,5.3,85,Low
+Cooked Food,Refrigerator,8,63,2.8,86,High
+Meat,Refrigerator,5,26,6.1,92,Medium
+Meat,Room Temperature,9,30,31.0,50,High
+Fruits,Refrigerator,11,11,4.6,78,Medium
+Fruits,Refrigerator,13,76,7.4,78,High
+Milk,Refrigerator,6,91,2.6,83,Medium
+Fruits,Refrigerator,14,85,2.3,84,High
+Cooked Food,Refrigerator,5,44,6.3,93,Medium
+Vegetables,Room Temperature,3,64,20.8,64,Medium
+Meat,Refrigerator,6,97,7.1,39,Medium
+Milk,Refrigerator,8,63,2.3,46,High
+Vegetables,Refrigerator,10,36,6.7,89,Medium
+Fruits,Refrigerator,12,40,4.3,86,High
+Leafy Vegetables,Refrigerator,4,76,3.8,35,Low
+Bread,Refrigerator,5,50,3.0,57,Low
+Bread,Freezer,14,86,-10.2,49,Medium
+Vegetables,Refrigerator,7,88,2.4,54,Medium
+Leafy Vegetables,Room Temperature,4,13,28.8,73,Medium
+Cooked Food,Refrigerator,14,75,5.8,66,High
+Milk,Refrigerator,7,43,6.4,64,Medium
+Bread,Refrigerator,14,57,6.3,61,High
+Cooked Food,Room Temperature,13,34,26.2,74,High
+Milk,Freezer,13,43,-12.1,76,High
+Cooked Food,Refrigerator,9,40,2.0,37,High
+Bread,Refrigerator,12,14,5.6,43,Medium
+Leafy Vegetables,Refrigerator,14,81,4.1,55,High
+Vegetables,Refrigerator,4,23,2.7,61,Low
+Fruits,Room Temperature,1,44,30.7,95,Low
+Meat,Refrigerator,5,27,4.0,89,Medium
+Milk,Refrigerator,9,24,2.4,74,High
+Fruits,Freezer,8,43,-13.7,37,Medium
+Fruits,Refrigerator,2,93,7.5,41,Low
+Cooked Food,Refrigerator,8,95,3.9,62,High
+Leafy Vegetables,Room Temperature,3,44,22.9,70,Medium
+Meat,Refrigerator,8,55,7.8,75,High
+Vegetables,Refrigerator,9,99,2.9,43,Medium
+Vegetables,Refrigerator,9,31,6.3,89,Medium
+Vegetables,Freezer,6,95,-5.9,65,Low
+Cooked Food,Refrigerator,6,19,6.1,71,Medium
+Vegetables,Refrigerator,10,30,2.6,37,Medium
+Bread,Refrigerator,11,40,3.1,85,Medium
+Vegetables,Refrigerator,12,13,2.5,68,High
+Milk,Room Temperature,5,84,25.2,48,Medium
+Milk,Refrigerator,6,87,7.9,54,Medium
+Milk,Room Temperature,5,44,21.4,56,Medium
+Cooked Food,Room Temperature,8,86,26.1,36,High
+Cooked Food,Freezer,2,80,-6.8,92,Low
+Meat,Refrigerator,7,82,6.1,83,High
+Fruits,Freezer,3,83,-16.3,89,Low
+Cooked Food,Room Temperature,8,62,28.7,56,High
+Bread,Refrigerator,12,20,4.2,69,Medium
+Leafy Vegetables,Room Temperature,14,94,30.8,62,High
+Fruits,Freezer,7,65,-8.2,64,Low
+Leafy Vegetables,Refrigerator,1,92,7.6,70,Low
+Bread,Freezer,4,97,-13.0,62,Low
+Fruits,Refrigerator,2,27,4.9,82,Low
+Meat,Room Temperature,11,46,25.7,38,High
+Fruits,Freezer,14,27,-8.7,46,High
+Fruits,Refrigerator,8,14,2.5,89,Medium
+Bread,Freezer,3,97,-10.6,88,Low
+Vegetables,Refrigerator,1,94,7.2,84,Low
+Bread,Room Temperature,14,94,28.6,57,High
+Vegetables,Room Temperature,5,90,27.0,62,Medium
+Meat,Refrigerator,2,69,3.2,36,Low
+Meat,Refrigerator,3,57,2.2,52,Low
+Meat,Refrigerator,4,100,5.3,79,Medium
+Vegetables,Refrigerator,10,60,6.2,55,Medium
+Leafy Vegetables,Refrigerator,13,68,5.9,64,High
+Milk,Refrigerator,4,29,4.3,42,Low
+Vegetables,Refrigerator,10,77,5.3,65,Medium
+Milk,Refrigerator,1,84,2.6,79,Low
+Vegetables,Room Temperature,1,71,21.9,69,Low
+Leafy Vegetables,Room Temperature,1,55,29.3,68,Low
+Vegetables,Room Temperature,13,28,29.6,90,High
+Leafy Vegetables,Refrigerator,9,13,7.5,49,High
+Fruits,Freezer,12,67,-6.3,53,Medium
+Meat,Room Temperature,1,72,23.3,73,Low
+Fruits,Refrigerator,1,80,7.6,64,Low
+Bread,Refrigerator,12,96,4.5,94,High
+Cooked Food,Room Temperature,2,55,31.0,38,Medium
+Leafy Vegetables,Refrigerator,3,85,2.4,42,Low
+Bread,Room Temperature,8,75,30.5,55,Medium
+Cooked Food,Freezer,9,35,-8.8,62,High
+Bread,Refrigerator,4,86,4.1,89,Low
+Cooked Food,Refrigerator,7,14,6.2,65,Medium
+Cooked Food,Freezer,10,64,-14.3,61,High
+Fruits,Room Temperature,7,95,21.8,45,Medium
+Cooked Food,Refrigerator,6,69,2.9,61,Medium
+Bread,Freezer,2,95,-15.1,67,Low
+Milk,Freezer,7,15,-12.3,70,Medium
+Milk,Room Temperature,12,58,20.2,71,High
+Fruits,Room Temperature,9,81,20.0,61,High
+Leafy Vegetables,Refrigerator,13,68,4.0,44,High
+Milk,Refrigerator,2,90,3.6,44,Low
+Fruits,Room Temperature,1,52,22.2,44,Low
+Meat,Refrigerator,8,72,6.6,72,High
+Bread,Room Temperature,3,48,22.7,87,Medium
+Cooked Food,Freezer,9,89,-17.9,88,High
+Vegetables,Refrigerator,13,20,6.8,53,High
+Cooked Food,Room Temperature,5,33,22.2,39,Medium
+Meat,Refrigerator,8,18,3.2,73,High
+Fruits,Freezer,10,73,-17.2,37,Medium
+Bread,Refrigerator,3,31,4.9,73,Low
+Fruits,Room Temperature,13,38,23.7,58,High
+Cooked Food,Room Temperature,3,86,30.8,86,Medium
+Milk,Refrigerator,12,42,5.1,73,High
+Cooked Food,Room Temperature,10,23,24.5,80,High
+Fruits,Room Temperature,2,11,26.9,59,Low
+Cooked Food,Room Temperature,11,30,26.8,86,High
+Meat,Room Temperature,3,93,29.9,67,Medium
+Fruits,Freezer,9,59,-8.8,73,Medium
+Vegetables,Refrigerator,14,100,4.1,56,High
+Meat,Room Temperature,14,29,23.6,62,High
+Milk,Refrigerator,13,41,7.4,86,High
+Meat,Room Temperature,7,24,23.8,59,High
+Milk,Room Temperature,8,46,30.5,36,High
+Meat,Refrigerator,5,61,3.8,58,Medium
+Meat,Refrigerator,13,83,2.7,58,High
+Milk,Freezer,7,43,-15.0,60,Medium
+Cooked Food,Refrigerator,11,80,4.1,39,High
+Vegetables,Room Temperature,6,66,25.9,42,Medium
+Cooked Food,Refrigerator,11,36,7.3,54,High
+Milk,Freezer,4,93,-15.6,60,Low
+Bread,Refrigerator,11,49,7.8,36,Medium
+Fruits,Refrigerator,1,23,5.3,58,Low
+Bread,Freezer,2,97,-10.3,54,Low
+Vegetables,Freezer,5,93,-13.3,37,Low
+Meat,Refrigerator,7,14,2.2,50,Medium
+Bread,Refrigerator,10,92,6.8,51,Medium
+Meat,Room Temperature,6,96,21.8,43,High
+Milk,Freezer,1,85,-7.6,80,Low
+Bread,Refrigerator,5,33,5.4,39,Low
+Meat,Room Temperature,7,67,29.9,70,High
+Cooked Food,Room Temperature,8,58,25.1,75,High
+Bread,Room Temperature,10,66,25.0,84,High
+Vegetables,Room Temperature,4,66,23.9,68,Medium
+Leafy Vegetables,Room Temperature,9,68,31.6,68,High
+Leafy Vegetables,Refrigerator,9,56,4.0,81,High
+Meat,Freezer,11,72,-9.0,87,High
+Fruits,Freezer,8,57,-14.7,47,Medium
+Vegetables,Room Temperature,12,11,27.9,83,High
+Meat,Refrigerator,4,13,7.7,63,Medium
+Meat,Refrigerator,10,97,2.8,40,High
+Vegetables,Room Temperature,1,92,30.9,72,Low
+Milk,Refrigerator,2,63,5.6,94,Low
+Bread,Freezer,13,25,-13.3,43,Medium
+Leafy Vegetables,Refrigerator,7,81,6.3,35,Medium
+Vegetables,Room Temperature,9,23,25.9,90,High
+Fruits,Freezer,9,44,-6.3,71,Medium
+Fruits,Refrigerator,10,40,4.9,48,Medium
+Cooked Food,Refrigerator,4,11,5.2,83,Medium
+Milk,Room Temperature,3,83,29.9,59,Medium
+Milk,Room Temperature,1,56,31.6,55,Low
+Bread,Refrigerator,13,38,6.0,52,Medium
+Fruits,Room Temperature,4,56,27.6,71,Medium
+Meat,Freezer,9,10,-15.7,43,High
+Fruits,Refrigerator,7,49,2.6,57,Medium
+Fruits,Refrigerator,3,57,3.1,53,Low
+Leafy Vegetables,Refrigerator,6,40,5.8,38,Medium
+Bread,Refrigerator,2,85,5.8,81,Low
+Meat,Refrigerator,3,32,4.5,35,Low
+Fruits,Refrigerator,2,22,2.5,93,Low
+Fruits,Room Temperature,12,58,26.4,40,High
+Cooked Food,Refrigerator,8,90,4.1,56,High
+Bread,Freezer,13,44,-16.6,41,Medium
+Leafy Vegetables,Refrigerator,7,14,5.5,57,Medium
+Vegetables,Refrigerator,3,98,4.9,72,Low
+Fruits,Room Temperature,9,50,23.3,40,High
+Fruits,Freezer,14,25,-14.2,67,High
+Cooked Food,Refrigerator,8,66,6.5,82,High
+Fruits,Refrigerator,1,39,5.0,62,Low
+Bread,Refrigerator,5,95,4.9,41,Low
+Milk,Room Temperature,13,36,29.2,77,High
+Vegetables,Refrigerator,8,60,7.7,46,Medium
+Cooked Food,Refrigerator,14,59,3.9,36,High
+Milk,Refrigerator,8,32,3.5,61,Medium
+Leafy Vegetables,Refrigerator,1,55,8.0,51,Low
+Fruits,Freezer,13,19,-11.0,36,Medium
+Milk,Room Temperature,11,68,24.8,82,High
+Vegetables,Refrigerator,11,79,2.4,71,High
+Fruits,Refrigerator,14,96,2.2,90,High
+Vegetables,Refrigerator,3,39,5.6,64,Low
+Milk,Refrigerator,13,35,2.4,61,High
+Meat,Room Temperature,4,59,27.1,86,Medium
+Meat,Freezer,14,73,-10.8,39,High
+Milk,Freezer,3,100,-5.2,57,Low
+Bread,Freezer,8,12,-9.1,83,Low
+Bread,Freezer,12,31,-16.6,52,Medium
+Meat,Freezer,2,33,-15.4,88,Low
+Cooked Food,Refrigerator,1,33,6.4,52,Low
+Cooked Food,Refrigerator,12,52,2.6,60,High
+Leafy Vegetables,Refrigerator,1,89,2.5,89,Low
+Cooked Food,Room Temperature,9,12,22.9,49,High
+Vegetables,Refrigerator,14,84,2.1,94,High
+Milk,Freezer,9,66,-17.2,37,Medium
+Meat,Room Temperature,7,65,29.3,51,High
+Leafy Vegetables,Room Temperature,6,71,30.2,71,High
+Leafy Vegetables,Refrigerator,9,20,5.6,71,High
+Bread,Refrigerator,9,77,7.1,90,Medium
+Bread,Refrigerator,8,32,4.4,93,Medium
+Milk,Freezer,3,57,-13.8,76,Low
+Milk,Room Temperature,10,71,22.8,75,High
+Fruits,Room Temperature,11,64,26.6,54,High
+Fruits,Refrigerator,10,39,7.7,84,Medium
+Vegetables,Refrigerator,2,46,3.6,74,Low
+Vegetables,Refrigerator,10,53,2.2,36,Medium
+Cooked Food,Room Temperature,11,13,25.8,85,High
+Fruits,Room Temperature,3,76,26.0,56,Medium
+Cooked Food,Refrigerator,12,19,4.1,64,High
+Leafy Vegetables,Freezer,8,51,-10.0,64,Medium
+Vegetables,Refrigerator,7,69,7.3,85,Medium
+Bread,Freezer,11,17,-6.1,51,Medium
+Leafy Vegetables,Refrigerator,8,100,5.1,58,Medium
+Meat,Refrigerator,8,44,4.0,37,High
+Vegetables,Freezer,5,11,-9.7,56,Low
+Meat,Refrigerator,13,69,2.9,40,High
+Fruits,Refrigerator,14,60,2.6,70,High
+Leafy Vegetables,Refrigerator,2,68,5.0,89,Low
+Bread,Refrigerator,11,78,6.0,63,Medium
+Leafy Vegetables,Room Temperature,1,53,31.8,90,Low
+Leafy Vegetables,Freezer,6,85,-5.6,94,Medium
+Bread,Freezer,14,43,-5.4,38,Medium
+Bread,Refrigerator,3,59,4.4,66,Low
+Fruits,Room Temperature,6,24,20.8,67,Medium
+Milk,Refrigerator,4,66,2.7,58,Medium
+Vegetables,Refrigerator,11,33,2.2,85,High
+Fruits,Refrigerator,7,73,4.0,59,Medium
+Leafy Vegetables,Freezer,9,82,-16.9,38,Medium
+Leafy Vegetables,Freezer,14,88,-10.1,68,High
+Bread,Room Temperature,8,94,29.2,47,Medium
+Leafy Vegetables,Room Temperature,11,21,28.7,56,High
+Milk,Refrigerator,2,22,6.1,65,Low
+Cooked Food,Room Temperature,4,94,28.4,79,Medium
+Cooked Food,Room Temperature,14,44,31.9,51,High
+Leafy Vegetables,Refrigerator,13,12,4.1,58,High
+Bread,Refrigerator,10,36,5.5,39,Medium
+Leafy Vegetables,Refrigerator,6,86,5.6,58,Medium
+Milk,Freezer,3,42,-11.9,70,Low
+Fruits,Refrigerator,12,16,4.0,72,High
+Fruits,Freezer,11,75,-13.3,52,Medium
+Vegetables,Refrigerator,4,27,5.9,38,Low
+Milk,Room Temperature,9,42,26.6,70,High
+Cooked Food,Refrigerator,9,10,4.6,74,High
+Vegetables,Refrigerator,7,64,7.4,40,Medium
+Meat,Refrigerator,13,50,2.2,65,High
+Vegetables,Refrigerator,2,88,7.1,40,Low
+Vegetables,Freezer,4,40,-11.1,62,Low
+Leafy Vegetables,Refrigerator,2,28,5.0,74,Low
+Milk,Room Temperature,10,25,22.3,78,High
+Cooked Food,Refrigerator,10,28,2.1,78,High
+Cooked Food,Refrigerator,14,51,7.5,81,High
+Vegetables,Room Temperature,8,17,25.9,49,Medium
+Bread,Refrigerator,3,46,7.7,86,Low
+Milk,Freezer,7,87,-5.1,56,Medium
+Leafy Vegetables,Freezer,2,79,-5.1,57,Low
+Leafy Vegetables,Room Temperature,10,67,30.2,83,High
+Bread,Refrigerator,10,91,5.3,54,Medium
+Milk,Refrigerator,13,80,3.2,39,High
+Milk,Freezer,5,69,-8.4,78,Medium
+Milk,Refrigerator,5,88,5.3,75,Medium
+Cooked Food,Refrigerator,1,21,7.7,70,Low
+Leafy Vegetables,Refrigerator,6,84,4.6,43,Medium
+Bread,Room Temperature,7,36,30.6,73,Medium
+Cooked Food,Room Temperature,11,76,22.8,47,High
+Bread,Room Temperature,11,93,26.0,68,High
+Vegetables,Room Temperature,2,55,28.8,65,Low
+Meat,Refrigerator,4,18,2.2,82,Medium
+Cooked Food,Freezer,8,43,-8.0,94,Medium
+Leafy Vegetables,Refrigerator,5,47,7.6,46,Medium
+Milk,Room Temperature,1,95,25.2,41,Low
+Bread,Refrigerator,12,95,2.7,68,Medium
+Bread,Freezer,11,61,-9.4,93,Medium
+Vegetables,Refrigerator,8,96,5.9,44,Medium
+Leafy Vegetables,Refrigerator,5,49,2.4,64,Medium
+Cooked Food,Refrigerator,12,47,7.0,59,High
+Vegetables,Refrigerator,1,86,5.1,54,Low
+Leafy Vegetables,Refrigerator,7,70,7.4,75,Medium
+Fruits,Room Temperature,12,57,28.4,53,High
+Fruits,Refrigerator,14,51,6.9,65,High
+Fruits,Freezer,4,74,-8.8,86,Low
+Bread,Refrigerator,10,78,3.5,58,Medium
+Leafy Vegetables,Room Temperature,3,54,21.3,36,Medium
+Milk,Refrigerator,2,12,2.6,88,Low
+Bread,Room Temperature,5,19,30.4,51,Medium
+Bread,Room Temperature,13,23,23.6,82,High
+Bread,Refrigerator,10,52,5.1,81,Medium
+Milk,Freezer,7,65,-8.7,67,Medium
+Milk,Refrigerator,4,83,3.8,40,Medium
+Meat,Refrigerator,2,31,3.4,92,Low
+Leafy Vegetables,Room Temperature,4,81,21.6,76,Medium
+Milk,Freezer,3,70,-15.4,60,Low
+Vegetables,Refrigerator,3,14,2.3,87,Low
+Fruits,Refrigerator,10,41,7.1,83,Medium
+Leafy Vegetables,Freezer,2,37,-9.0,81,Low
+Meat,Room Temperature,1,90,31.3,45,Low
+Cooked Food,Freezer,8,93,-8.6,73,Medium
+Meat,Room Temperature,5,84,30.8,52,High
+Vegetables,Room Temperature,7,58,21.3,39,Medium
+Bread,Refrigerator,2,54,5.2,55,Low
+Leafy Vegetables,Freezer,3,38,-9.1,41,Low
+Cooked Food,Refrigerator,7,80,7.3,41,Medium
+Milk,Room Temperature,10,17,22.3,79,High
+Cooked Food,Refrigerator,6,34,6.9,65,Medium
+Milk,Room Temperature,8,22,23.3,59,High
+Cooked Food,Room Temperature,8,54,25.4,46,High
+Cooked Food,Room Temperature,4,37,23.9,82,Medium
+Milk,Freezer,4,27,-9.5,73,Low
+Fruits,Refrigerator,6,44,2.5,70,Medium
+Milk,Room Temperature,1,88,20.6,46,Low
+Fruits,Refrigerator,10,60,4.0,42,Medium
+Leafy Vegetables,Refrigerator,9,84,3.9,42,High
+Milk,Refrigerator,5,93,2.0,36,Medium
+Vegetables,Refrigerator,6,92,5.6,94,Medium
+Leafy Vegetables,Refrigerator,5,41,3.6,57,Medium
+Vegetables,Room Temperature,10,89,20.0,75,High
+Milk,Room Temperature,11,92,25.7,94,High
+Fruits,Room Temperature,2,97,20.5,92,Medium
+Fruits,Refrigerator,6,41,7.3,54,Medium
+Meat,Refrigerator,1,30,4.0,64,Low
+Vegetables,Refrigerator,7,63,6.1,63,Medium
+Leafy Vegetables,Room Temperature,4,94,22.6,37,Medium
+Fruits,Freezer,5,91,-16.7,81,Low
+Vegetables,Refrigerator,7,61,6.9,70,Medium
+Leafy Vegetables,Room Temperature,5,23,30.1,57,Medium
+Leafy Vegetables,Refrigerator,6,48,5.4,69,Medium
+Fruits,Refrigerator,11,74,2.0,79,Medium
+Milk,Refrigerator,12,60,2.2,35,High
+Meat,Refrigerator,1,41,7.9,74,Low
+Fruits,Room Temperature,6,41,30.4,87,Medium
+Bread,Freezer,12,15,-10.4,79,Medium
+Meat,Refrigerator,8,36,7.4,72,High
+Cooked Food,Room Temperature,3,70,26.9,40,Medium
+Milk,Room Temperature,9,31,21.9,80,High
+Cooked Food,Freezer,3,100,-10.2,80,Low
+Milk,Room Temperature,1,17,31.0,65,Low
+Cooked Food,Refrigerator,9,63,2.0,70,High
+Vegetables,Room Temperature,8,55,21.0,72,Medium
+Milk,Refrigerator,11,85,6.5,42,High
+Leafy Vegetables,Freezer,5,90,-13.7,50,Low
+Bread,Refrigerator,12,59,5.7,83,Medium
+Meat,Room Temperature,6,67,24.1,94,High
+Bread,Refrigerator,11,73,3.9,51,Medium
+Leafy Vegetables,Refrigerator,2,57,7.8,59,Low
+Cooked Food,Freezer,2,26,-9.7,90,Low
+Cooked Food,Room Temperature,11,49,23.7,44,High
+Fruits,Refrigerator,12,31,5.3,50,High
+Fruits,Freezer,14,52,-16.0,38,High
+Meat,Freezer,5,65,-15.8,49,Medium
+Cooked Food,Refrigerator,1,29,4.6,73,Low
+Cooked Food,Room Temperature,14,32,21.3,56,High
+Milk,Refrigerator,9,84,7.5,94,High
+Meat,Room Temperature,4,44,20.9,89,Medium
+Milk,Refrigerator,11,28,5.4,89,High
+Vegetables,Refrigerator,13,74,4.7,79,High
+Cooked Food,Freezer,4,75,-15.1,77,Low
+Bread,Freezer,11,85,-7.8,66,Medium
+Cooked Food,Freezer,12,79,-5.5,95,High
+Fruits,Freezer,8,100,-11.6,40,Medium
+Bread,Room Temperature,9,62,24.2,79,Medium
+Vegetables,Room Temperature,4,36,23.4,43,Medium
+Fruits,Room Temperature,14,88,25.4,55,High
+Cooked Food,Refrigerator,14,34,3.3,50,High
+Meat,Refrigerator,14,36,5.0,71,High
+Leafy Vegetables,Refrigerator,11,85,5.5,83,High
+Leafy Vegetables,Room Temperature,1,90,22.9,39,Low
+Cooked Food,Refrigerator,6,40,7.1,71,Medium
+Meat,Refrigerator,7,76,5.7,48,High
+Vegetables,Room Temperature,14,93,24.8,39,High
+Vegetables,Refrigerator,8,82,6.9,60,Medium
+Milk,Refrigerator,8,10,6.3,70,High
+Vegetables,Freezer,3,70,-7.1,47,Low
+Leafy Vegetables,Freezer,12,25,-11.1,58,High
+Vegetables,Refrigerator,5,87,7.1,93,Medium
+Milk,Refrigerator,2,16,4.5,56,Low
+Meat,Refrigerator,14,100,5.4,95,High
+Leafy Vegetables,Room Temperature,3,26,24.1,85,Medium
+Leafy Vegetables,Freezer,1,48,-7.6,57,Low
+Bread,Refrigerator,2,31,6.3,70,Low
+Fruits,Room Temperature,7,84,23.6,78,Medium
+Fruits,Refrigerator,2,45,5.0,63,Low
+Bread,Refrigerator,12,77,6.9,59,Medium
+Bread,Freezer,8,16,-14.2,55,Low
+Bread,Refrigerator,5,51,3.7,43,Low
+Leafy Vegetables,Refrigerator,1,92,7.8,36,Low
+Cooked Food,Refrigerator,7,94,6.2,55,Medium
+Cooked Food,Room Temperature,3,28,27.3,83,Medium
+Cooked Food,Freezer,14,45,-14.5,49,High
+Leafy Vegetables,Freezer,5,47,-14.6,45,Low
+Milk,Refrigerator,7,61,6.5,55,Medium
+Leafy Vegetables,Refrigerator,1,58,5.7,71,Low
+Milk,Room Temperature,2,19,27.1,48,Low
+Fruits,Refrigerator,3,79,5.3,48,Low
+Meat,Freezer,1,30,-14.2,41,Low
+Vegetables,Room Temperature,11,38,25.4,55,High
+Bread,Refrigerator,14,86,7.2,48,High
+Bread,Freezer,14,72,-8.3,85,Medium
+Cooked Food,Refrigerator,4,46,4.3,90,Medium
+Vegetables,Refrigerator,12,93,5.0,57,High
+Vegetables,Room Temperature,8,45,24.0,40,Medium
+Leafy Vegetables,Room Temperature,1,61,29.7,40,Low
+Bread,Room Temperature,2,32,23.1,54,Low
+Leafy Vegetables,Room Temperature,8,26,27.3,63,High
+Leafy Vegetables,Freezer,6,54,-17.4,67,Medium
+Meat,Freezer,1,61,-5.1,53,Low
+Bread,Room Temperature,14,83,31.0,56,High
+Bread,Refrigerator,11,45,4.8,52,Medium
+Bread,Room Temperature,8,91,22.8,66,Medium
+Meat,Freezer,14,65,-14.5,77,High
+Bread,Refrigerator,14,16,6.8,37,High
+Fruits,Refrigerator,14,77,3.4,64,High
+Milk,Refrigerator,4,62,5.6,74,Medium
+Fruits,Refrigerator,13,45,2.9,76,High
+Milk,Room Temperature,8,52,27.7,69,High
+Meat,Refrigerator,11,37,7.3,67,High
+Milk,Room Temperature,13,65,22.7,76,High
+Bread,Freezer,3,61,-16.1,58,Low
+Bread,Freezer,7,50,-7.4,69,Low
+Cooked Food,Refrigerator,2,35,4.0,54,Low
+Milk,Refrigerator,4,46,4.8,61,Medium
+Fruits,Room Temperature,6,55,25.3,42,Medium
+Meat,Freezer,12,52,-9.3,56,High
+Fruits,Refrigerator,13,38,2.7,43,High
+Meat,Freezer,6,62,-9.5,48,Medium
+Cooked Food,Refrigerator,5,30,7.2,60,Medium
+Vegetables,Freezer,8,55,-12.1,65,Medium
+Cooked Food,Refrigerator,13,21,4.1,92,High
+Vegetables,Refrigerator,14,52,5.1,36,High
+Leafy Vegetables,Room Temperature,4,81,31.1,89,Medium
+Fruits,Refrigerator,3,84,6.8,55,Low
+Cooked Food,Refrigerator,10,73,5.0,79,High
+Leafy Vegetables,Refrigerator,5,77,7.6,76,Medium
+Cooked Food,Refrigerator,3,16,5.7,94,Low
+Cooked Food,Room Temperature,1,41,31.2,41,Low
+Fruits,Refrigerator,6,69,6.3,93,Medium
+Milk,Room Temperature,6,82,26.0,38,High
+Fruits,Freezer,8,63,-11.5,88,Medium
+Bread,Refrigerator,3,87,3.1,74,Low
+Leafy Vegetables,Refrigerator,11,34,7.8,64,High
+Bread,Freezer,10,23,-14.9,59,Medium
+Bread,Freezer,7,17,-8.0,40,Low
+Bread,Room Temperature,3,63,26.8,83,Medium
+Meat,Freezer,8,70,-9.9,79,High
+Fruits,Refrigerator,10,35,3.8,92,Medium
+Leafy Vegetables,Refrigerator,6,81,6.6,79,Medium
+Vegetables,Room Temperature,4,77,24.8,93,Medium
+Bread,Refrigerator,8,42,3.8,89,Medium
+Milk,Room Temperature,5,31,25.4,60,Medium
+Milk,Room Temperature,6,77,20.1,77,High
+Vegetables,Room Temperature,5,71,20.9,51,Medium
+Leafy Vegetables,Refrigerator,5,25,6.9,83,Medium
+Fruits,Refrigerator,11,33,3.5,72,Medium
+Leafy Vegetables,Refrigerator,7,54,6.5,61,Medium
+Milk,Refrigerator,7,56,2.4,73,Medium
+Milk,Room Temperature,10,25,23.7,51,High
+Cooked Food,Refrigerator,6,96,6.8,72,Medium
+Milk,Refrigerator,2,45,4.4,63,Low
+Milk,Refrigerator,12,44,6.3,54,High
+Vegetables,Refrigerator,1,15,7.5,94,Low
+Leafy Vegetables,Freezer,9,89,-13.2,38,Medium
+Meat,Refrigerator,4,31,4.3,81,Medium
+Milk,Freezer,3,99,-13.1,47,Low
+Cooked Food,Refrigerator,1,55,6.7,48,Low
+Cooked Food,Room Temperature,13,89,28.2,44,High
+Cooked Food,Refrigerator,7,26,6.8,41,Medium
+Leafy Vegetables,Refrigerator,5,25,4.0,42,Medium
+Bread,Freezer,11,82,-5.5,85,Medium
+Leafy Vegetables,Freezer,1,84,-6.2,91,Low
+Vegetables,Freezer,8,59,-10.6,70,Medium
+Cooked Food,Refrigerator,7,12,8.0,35,Medium
+Meat,Refrigerator,8,95,7.2,87,High
+Cooked Food,Room Temperature,2,45,25.8,71,Medium
+Meat,Refrigerator,14,95,7.7,66,High
+Meat,Room Temperature,4,89,29.1,92,Medium
+Meat,Room Temperature,10,87,25.2,59,High
+Cooked Food,Room Temperature,11,72,22.5,56,High
+Cooked Food,Freezer,5,71,-10.6,82,Medium
+Milk,Room Temperature,2,58,25.6,67,Medium
+Cooked Food,Refrigerator,5,12,7.6,78,Medium
+Fruits,Refrigerator,12,45,2.0,77,High
+Vegetables,Room Temperature,13,76,24.9,86,High
+Fruits,Refrigerator,14,83,3.5,54,High
+Leafy Vegetables,Refrigerator,4,60,3.2,39,Low
+Leafy Vegetables,Refrigerator,9,74,3.4,64,High
+Cooked Food,Room Temperature,3,11,26.2,74,Medium
+Fruits,Freezer,10,52,-8.9,84,Medium
+Cooked Food,Room Temperature,6,56,26.1,51,High
+Vegetables,Refrigerator,10,91,7.3,80,High
+Meat,Refrigerator,10,38,5.6,85,High
+Meat,Room Temperature,14,30,20.2,84,High
+Bread,Refrigerator,7,42,4.2,84,Medium
+Bread,Room Temperature,5,25,26.0,95,Medium
+Milk,Room Temperature,8,60,26.5,75,High
+Milk,Refrigerator,3,68,7.8,57,Low
+Fruits,Refrigerator,2,82,5.7,61,Low
+Fruits,Refrigerator,8,98,3.7,80,Medium
+Bread,Freezer,12,16,-16.3,49,Medium
+Vegetables,Room Temperature,8,32,28.4,71,Medium
+Meat,Refrigerator,11,37,6.0,69,High
+Bread,Freezer,3,32,-6.7,75,Low
+Vegetables,Refrigerator,7,85,7.3,60,Medium
+Vegetables,Refrigerator,9,22,6.0,80,Medium
+Fruits,Freezer,5,12,-6.0,39,Low
+Vegetables,Refrigerator,1,88,3.1,80,Low
+Cooked Food,Refrigerator,2,97,2.6,84,Low
+Vegetables,Room Temperature,13,30,23.6,89,High
+Fruits,Refrigerator,9,40,5.6,91,Medium
+Vegetables,Room Temperature,4,55,28.9,56,Medium
+Bread,Refrigerator,4,57,5.5,37,Low
+Meat,Refrigerator,1,100,2.4,74,Low
+Bread,Refrigerator,14,46,6.9,40,High
+Vegetables,Refrigerator,2,11,3.3,52,Low
+Cooked Food,Refrigerator,11,48,6.8,77,High
+Leafy Vegetables,Refrigerator,4,60,5.2,71,Low
+Meat,Freezer,5,57,-12.1,72,Medium
+Leafy Vegetables,Refrigerator,4,56,2.2,80,Low
+Cooked Food,Refrigerator,12,93,6.9,45,High
+Fruits,Refrigerator,1,83,3.1,83,Low
+Cooked Food,Refrigerator,5,32,2.3,70,Medium
+Vegetables,Refrigerator,4,42,6.5,60,Low
+Fruits,Room Temperature,4,70,21.7,63,Medium
+Fruits,Refrigerator,3,47,4.3,66,Low
+Leafy Vegetables,Freezer,13,48,-14.5,68,High
+Cooked Food,Freezer,6,25,-11.5,55,Medium
+Fruits,Refrigerator,6,33,3.8,48,Medium
+Meat,Refrigerator,6,77,3.3,45,Medium
+Bread,Refrigerator,14,86,3.9,55,High
+Cooked Food,Room Temperature,5,81,21.5,50,Medium
+Fruits,Refrigerator,5,38,3.9,66,Low
+Fruits,Freezer,5,22,-17.5,90,Low
+Cooked Food,Room Temperature,5,24,25.6,41,Medium
+Meat,Freezer,2,45,-10.6,53,Low
+Milk,Room Temperature,9,57,20.3,37,High
+Vegetables,Freezer,1,91,-6.5,94,Low
+Bread,Refrigerator,4,91,3.3,77,Low
+Cooked Food,Refrigerator,3,10,7.5,49,Low
+Milk,Refrigerator,5,74,7.3,60,Medium
+Bread,Freezer,11,37,-12.8,79,Medium
+Meat,Room Temperature,9,27,27.9,93,High
+Meat,Freezer,14,60,-6.7,70,High
+Fruits,Refrigerator,5,13,3.3,51,Low
+Leafy Vegetables,Freezer,13,40,-15.1,77,High
+Leafy Vegetables,Refrigerator,1,60,4.3,76,Low
+Milk,Refrigerator,8,34,5.5,74,High
+Leafy Vegetables,Freezer,12,63,-6.1,37,High
+Meat,Refrigerator,8,51,5.7,78,High
+Meat,Refrigerator,14,82,3.8,36,High
+Milk,Room Temperature,5,26,27.0,90,Medium
+Meat,Refrigerator,1,15,6.7,88,Low
+Cooked Food,Refrigerator,11,58,7.3,69,High
+Meat,Refrigerator,1,33,3.9,74,Low
+Milk,Refrigerator,11,74,5.4,39,High
+Fruits,Freezer,11,18,-17.1,88,Medium
+Leafy Vegetables,Room Temperature,12,62,24.4,51,High
+Cooked Food,Refrigerator,7,100,6.4,50,Medium
+Milk,Refrigerator,13,18,3.0,78,High
+Leafy Vegetables,Refrigerator,3,37,4.6,92,Low
+Leafy Vegetables,Room Temperature,7,86,24.1,65,High
+Bread,Freezer,2,58,-16.8,65,Low
+Cooked Food,Freezer,11,25,-7.6,68,High
+Vegetables,Refrigerator,10,29,4.1,52,Medium
+Meat,Refrigerator,12,79,7.7,71,High
+Fruits,Refrigerator,11,88,5.7,93,High
+Cooked Food,Room Temperature,5,42,32.0,58,Medium
+Leafy Vegetables,Refrigerator,1,53,2.2,82,Low
+Cooked Food,Room Temperature,14,81,23.4,82,High
+Leafy Vegetables,Room Temperature,7,26,25.3,86,High
+Leafy Vegetables,Refrigerator,2,28,5.3,79,Low
+Milk,Refrigerator,13,80,6.5,91,High
+Bread,Refrigerator,14,26,4.5,78,High
+Cooked Food,Refrigerator,7,80,3.8,94,High
+Meat,Refrigerator,11,55,2.3,78,High
+Milk,Room Temperature,1,100,30.7,86,Medium
+Milk,Refrigerator,2,12,4.6,89,Low
+Fruits,Refrigerator,4,96,7.3,94,Low
+Meat,Room Temperature,10,30,23.5,71,High
+Bread,Room Temperature,2,13,22.2,78,Low
+Bread,Refrigerator,1,75,6.1,93,Low
+Milk,Freezer,10,58,-12.4,58,High
+Fruits,Freezer,11,86,-5.4,42,Medium
+Milk,Room Temperature,11,19,30.6,88,High
+Meat,Room Temperature,12,17,21.5,73,High
+Fruits,Refrigerator,12,61,4.6,61,High
+Fruits,Freezer,9,90,-10.2,78,Medium
+Meat,Refrigerator,8,46,7.2,36,High
+Fruits,Freezer,12,82,-13.0,64,Medium
+Cooked Food,Room Temperature,5,92,24.6,51,Medium
+Cooked Food,Refrigerator,2,89,6.5,52,Low
+Leafy Vegetables,Refrigerator,11,56,7.1,94,High
+Cooked Food,Room Temperature,4,73,29.8,68,Medium
+Fruits,Room Temperature,14,57,29.0,43,High
+Fruits,Refrigerator,6,71,6.8,57,Medium
+Bread,Room Temperature,12,61,31.0,49,High
+Meat,Freezer,1,57,-18.0,90,Low
+Milk,Refrigerator,10,49,5.8,52,High
+Leafy Vegetables,Refrigerator,7,69,5.1,56,Medium
+Cooked Food,Refrigerator,7,78,7.1,55,Medium
+Milk,Room Temperature,4,93,30.6,45,Medium
+Cooked Food,Refrigerator,14,65,6.9,82,High
+Milk,Freezer,6,19,-13.9,70,Medium
+Cooked Food,Refrigerator,12,63,7.8,61,High
+Milk,Room Temperature,6,38,25.8,59,Medium
+Fruits,Refrigerator,1,12,6.3,75,Low
+Meat,Refrigerator,13,16,6.5,40,High
+Cooked Food,Room Temperature,3,63,29.1,91,Medium
+Vegetables,Refrigerator,4,95,7.4,69,Low
+Leafy Vegetables,Room Temperature,13,56,29.5,48,High
+Cooked Food,Freezer,13,50,-14.6,67,High
+Bread,Freezer,13,18,-13.7,86,Medium
+Meat,Freezer,6,71,-14.8,45,Medium
+Cooked Food,Refrigerator,11,15,3.5,66,High
+Vegetables,Room Temperature,5,86,28.7,71,Medium
+Cooked Food,Freezer,11,84,-15.6,84,High
+Leafy Vegetables,Refrigerator,8,100,4.6,69,Medium
+Cooked Food,Refrigerator,1,35,3.3,79,Low
+Cooked Food,Freezer,6,24,-16.0,82,Medium
+Meat,Refrigerator,7,37,7.1,89,High
+Bread,Room Temperature,4,82,31.8,57,Medium
+Cooked Food,Freezer,6,29,-10.0,77,Medium
+Vegetables,Room Temperature,8,90,29.6,50,High
+Fruits,Refrigerator,1,24,3.5,86,Low
+Vegetables,Refrigerator,3,14,7.3,93,Low
+Vegetables,Refrigerator,11,29,3.9,52,Medium
+Bread,Refrigerator,5,78,3.2,69,Low
+Leafy Vegetables,Room Temperature,9,64,22.7,85,High
+Bread,Freezer,8,42,-8.6,36,Low
+Milk,Refrigerator,8,69,4.7,78,High
+Leafy Vegetables,Refrigerator,6,69,6.5,85,Medium
+Fruits,Freezer,7,60,-12.5,88,Low
+Fruits,Refrigerator,12,56,4.1,47,High
+Cooked Food,Room Temperature,14,19,30.3,81,High
+Vegetables,Refrigerator,4,33,3.7,82,Low
+Milk,Room Temperature,10,58,24.3,35,High
+Cooked Food,Refrigerator,14,22,3.0,78,High
+Bread,Room Temperature,1,53,21.9,73,Low
+Fruits,Refrigerator,11,20,4.0,94,Medium
+Leafy Vegetables,Room Temperature,7,81,25.8,37,High
+Leafy Vegetables,Refrigerator,14,19,3.5,93,High
+Vegetables,Refrigerator,9,18,2.4,69,Medium
+Cooked Food,Room Temperature,12,68,20.1,51,High
+Meat,Refrigerator,3,30,5.1,58,Low
+Fruits,Refrigerator,2,41,4.0,81,Low
+Milk,Refrigerator,13,38,6.0,95,High
+Vegetables,Refrigerator,8,29,5.8,54,Medium
+Meat,Refrigerator,8,79,7.6,95,High
+Leafy Vegetables,Freezer,3,72,-12.5,73,Low
+Milk,Refrigerator,4,31,6.1,46,Medium
+Cooked Food,Freezer,12,72,-12.4,71,High
+Cooked Food,Freezer,5,74,-12.5,83,Medium
+Leafy Vegetables,Refrigerator,9,59,4.9,38,High
+Vegetables,Room Temperature,5,62,25.6,39,Medium
+Milk,Freezer,4,95,-13.3,35,Low
+Bread,Room Temperature,3,51,29.7,69,Medium
+Cooked Food,Refrigerator,14,45,7.8,38,High
+Leafy Vegetables,Refrigerator,14,59,2.5,91,High
+Meat,Refrigerator,2,86,7.0,42,Low
+Milk,Room Temperature,5,74,23.7,39,Medium
+Milk,Freezer,8,16,-9.4,50,Medium
+Fruits,Freezer,6,51,-15.4,81,Low
+Meat,Refrigerator,11,77,7.6,90,High
+Milk,Room Temperature,4,30,27.6,50,Medium
+Meat,Refrigerator,1,99,2.8,66,Low
+Fruits,Freezer,5,83,-9.9,82,Low
+Milk,Refrigerator,9,87,6.2,83,High
+Milk,Freezer,3,17,-7.1,44,Low
+Fruits,Freezer,12,62,-16.2,86,Medium
+Cooked Food,Refrigerator,1,58,2.1,87,Low
+Cooked Food,Refrigerator,1,67,2.9,79,Low
+Fruits,Freezer,8,87,-17.4,67,Medium
+Vegetables,Refrigerator,8,42,5.9,58,Medium
+Leafy Vegetables,Room Temperature,5,58,22.0,89,Medium
+Fruits,Freezer,4,71,-16.1,87,Low
+Vegetables,Room Temperature,1,78,24.2,66,Low
+Fruits,Refrigerator,10,80,3.6,80,Medium
+Milk,Refrigerator,6,40,2.1,59,Medium
+Vegetables,Refrigerator,2,100,3.2,80,Low
+Fruits,Freezer,6,10,-10.7,40,Low
+Leafy Vegetables,Refrigerator,14,54,3.1,89,High
+Cooked Food,Refrigerator,4,65,2.1,66,Medium
+Cooked Food,Refrigerator,13,15,2.9,71,High
+Fruits,Freezer,4,51,-12.9,46,Low
+Milk,Refrigerator,3,64,5.8,67,Low
+Vegetables,Freezer,4,65,-17.6,35,Low
+Leafy Vegetables,Room Temperature,5,20,24.8,89,Medium
+Milk,Freezer,2,35,-17.6,80,Low
+Leafy Vegetables,Freezer,9,32,-8.3,62,Medium
+Meat,Freezer,5,68,-13.0,85,Medium
+Bread,Freezer,11,39,-10.2,84,Medium
+Cooked Food,Refrigerator,7,62,4.6,42,Medium
+Cooked Food,Room Temperature,7,76,23.5,38,High
+Milk,Room Temperature,7,82,26.1,50,High
+Milk,Room Temperature,3,26,25.8,35,Medium
+Meat,Freezer,10,92,-15.5,69,High
+Leafy Vegetables,Freezer,2,25,-12.3,67,Low
+Milk,Room Temperature,11,11,31.0,67,High
+Meat,Refrigerator,14,14,5.8,39,High
+Milk,Refrigerator,11,28,5.2,91,High
+Meat,Refrigerator,7,89,2.2,94,High
+Meat,Refrigerator,5,28,6.3,71,Medium
+Milk,Refrigerator,13,73,5.3,35,High
+Meat,Refrigerator,4,48,3.6,59,Medium
+Leafy Vegetables,Refrigerator,7,13,4.0,78,Medium
+Leafy Vegetables,Room Temperature,11,50,27.1,80,High
+Milk,Refrigerator,13,12,5.7,49,High
+Bread,Freezer,13,53,-6.2,85,Medium
+Bread,Room Temperature,2,60,30.2,94,Medium
+Fruits,Refrigerator,13,57,4.5,66,High
+Bread,Refrigerator,2,35,4.8,58,Low
+Cooked Food,Refrigerator,9,79,3.7,67,High
+Cooked Food,Freezer,14,64,-17.0,36,High
+Cooked Food,Refrigerator,10,33,6.1,66,High
+Bread,Room Temperature,14,49,22.3,36,High
+Milk,Freezer,5,19,-7.1,37,Low
+Leafy Vegetables,Freezer,5,94,-10.6,68,Low
+Vegetables,Refrigerator,5,78,6.1,66,Medium
+Meat,Refrigerator,5,36,5.9,95,Medium
+Leafy Vegetables,Refrigerator,10,71,5.9,65,High
+Milk,Refrigerator,7,71,5.6,94,Medium
+Milk,Refrigerator,11,65,7.8,84,High
+Milk,Room Temperature,6,14,32.0,55,High
+Bread,Freezer,5,89,-5.8,91,Low
+Milk,Room Temperature,3,96,30.0,64,Medium
+Cooked Food,Room Temperature,8,98,21.9,71,High
+Meat,Refrigerator,13,99,3.7,41,High
+Leafy Vegetables,Freezer,13,94,-7.2,47,High
+Cooked Food,Room Temperature,4,77,25.1,66,Medium
+Leafy Vegetables,Freezer,7,15,-12.4,51,Medium
+Bread,Freezer,10,52,-13.4,71,Medium
+Vegetables,Refrigerator,9,32,5.6,39,Medium
+Cooked Food,Refrigerator,1,30,3.3,50,Low
+Bread,Refrigerator,9,85,6.8,75,Medium
+Milk,Refrigerator,1,83,4.6,72,Low
+Meat,Freezer,2,57,-11.7,95,Low
+Cooked Food,Refrigerator,10,77,2.5,89,High
+Leafy Vegetables,Room Temperature,2,21,22.0,84,Low
+Leafy Vegetables,Room Temperature,5,30,21.9,35,Medium
+Milk,Refrigerator,9,88,6.1,71,High
+Cooked Food,Refrigerator,10,51,4.1,48,High
+Cooked Food,Room Temperature,7,59,31.1,51,High
+Meat,Room Temperature,2,52,26.2,47,Medium
+Cooked Food,Refrigerator,12,28,5.4,62,High
+Cooked Food,Refrigerator,14,85,3.5,42,High
+Fruits,Room Temperature,13,79,23.3,67,High
+Milk,Refrigerator,11,72,4.8,45,High
+Fruits,Freezer,6,42,-12.0,65,Low
+Bread,Refrigerator,13,68,3.2,73,High
+Milk,Refrigerator,7,96,2.7,45,Medium
+Milk,Refrigerator,2,69,2.7,41,Low
+Meat,Room Temperature,12,54,31.8,84,High
+Fruits,Room Temperature,5,34,22.7,80,Medium
+Fruits,Refrigerator,14,57,2.0,50,High
+Cooked Food,Freezer,6,43,-9.5,89,Medium
+Fruits,Refrigerator,13,65,2.1,48,High
+Meat,Refrigerator,8,14,4.5,91,High
+Milk,Refrigerator,7,27,6.3,41,Medium
+Cooked Food,Refrigerator,5,81,7.5,75,Medium
+Fruits,Room Temperature,12,44,25.0,36,High
+Bread,Refrigerator,1,49,4.8,47,Low
+Cooked Food,Room Temperature,7,59,31.2,59,High
+Cooked Food,Refrigerator,6,49,2.2,40,Medium
+Milk,Freezer,8,79,-11.4,62,Medium
+Bread,Refrigerator,4,32,7.1,49,Low
+Milk,Freezer,10,79,-13.7,41,High
+Bread,Refrigerator,6,29,3.5,93,Medium
+Milk,Refrigerator,3,43,2.9,94,Low
+Meat,Freezer,3,63,-5.9,93,Low
+Fruits,Room Temperature,10,90,24.1,44,High
+Leafy Vegetables,Room Temperature,4,31,24.4,58,Medium
+Cooked Food,Refrigerator,5,63,7.5,54,Medium
+Meat,Room Temperature,9,15,26.7,54,High
+Fruits,Freezer,5,16,-7.5,60,Low
+Milk,Room Temperature,6,79,27.7,66,High
+Milk,Refrigerator,4,75,2.8,64,Medium
+Meat,Room Temperature,5,44,30.3,52,Medium
+Milk,Room Temperature,10,66,26.8,94,High
+Milk,Freezer,8,44,-11.5,94,Medium
+Bread,Refrigerator,14,35,6.2,55,High
+Leafy Vegetables,Refrigerator,11,49,5.2,48,High
+Fruits,Freezer,1,38,-8.6,67,Low
+Meat,Room Temperature,6,84,25.4,57,High
+Vegetables,Room Temperature,5,47,22.0,95,Medium
+Bread,Refrigerator,9,39,7.3,61,Medium
+Vegetables,Refrigerator,4,58,5.3,37,Low
+Milk,Room Temperature,14,78,30.0,42,High
+Cooked Food,Refrigerator,5,34,5.1,39,Medium
+Bread,Refrigerator,8,95,4.8,58,Medium
+Vegetables,Room Temperature,2,52,29.0,54,Low
+Leafy Vegetables,Room Temperature,13,70,31.2,87,High
+Meat,Freezer,13,97,-9.0,89,High
+Fruits,Refrigerator,12,49,3.8,43,High
+Fruits,Refrigerator,5,28,5.1,92,Low
+Cooked Food,Freezer,1,78,-8.8,70,Low
+Bread,Refrigerator,10,10,6.0,53,Medium
+Meat,Refrigerator,7,51,4.6,59,Medium
+Leafy Vegetables,Refrigerator,14,99,3.3,61,High
+Meat,Room Temperature,10,47,23.7,45,High
+Fruits,Freezer,8,72,-6.8,87,Medium
+Bread,Room Temperature,14,57,26.7,35,High
+Bread,Room Temperature,12,29,26.6,39,High
+Leafy Vegetables,Refrigerator,7,38,5.4,51,Medium
+Fruits,Refrigerator,1,57,5.2,43,Low
+Vegetables,Refrigerator,2,19,7.0,38,Low
+Vegetables,Refrigerator,7,47,2.8,58,Medium
+Meat,Refrigerator,8,47,7.5,57,High
+Fruits,Refrigerator,1,85,5.2,42,Low
+Meat,Refrigerator,2,21,5.5,84,Low
+Bread,Room Temperature,10,86,22.6,88,High
+Meat,Room Temperature,11,47,25.7,78,High
+Fruits,Refrigerator,1,69,5.0,66,Low
+Leafy Vegetables,Refrigerator,8,60,3.6,92,Medium
+Bread,Room Temperature,2,37,20.7,56,Low
+Bread,Room Temperature,11,94,20.5,61,High
+Fruits,Freezer,12,30,-16.0,35,Medium
+Fruits,Refrigerator,13,13,2.6,78,High
+Meat,Freezer,9,78,-6.7,40,High
+Vegetables,Refrigerator,9,66,3.1,75,Medium
+Leafy Vegetables,Refrigerator,13,91,3.1,82,High
+Fruits,Refrigerator,9,51,5.6,48,Medium
+Milk,Refrigerator,7,11,3.1,72,Medium
+Milk,Refrigerator,11,11,7.3,53,High
+Leafy Vegetables,Refrigerator,9,49,3.3,59,High
+Milk,Room Temperature,12,32,25.8,67,High
+Leafy Vegetables,Refrigerator,8,93,7.3,50,High
+Bread,Refrigerator,13,20,3.8,83,Medium
+Milk,Refrigerator,1,90,4.6,59,Low
+Vegetables,Refrigerator,1,29,7.8,63,Low
+Meat,Refrigerator,2,20,7.7,84,Low
+Vegetables,Refrigerator,8,34,6.3,48,Medium
+Cooked Food,Refrigerator,10,23,2.4,62,High
+Meat,Room Temperature,4,46,20.0,95,Medium
+Vegetables,Freezer,3,40,-13.7,59,Low
+Meat,Refrigerator,13,58,7.7,42,High
+Leafy Vegetables,Room Temperature,11,58,25.5,52,High
+Vegetables,Freezer,10,10,-11.9,93,Medium
+Bread,Freezer,7,21,-13.5,81,Low
+Vegetables,Room Temperature,6,24,31.3,84,Medium
+Cooked Food,Freezer,1,27,-11.2,50,Low
+Bread,Freezer,3,18,-16.3,86,Low
+Leafy Vegetables,Room Temperature,13,38,27.8,58,High
+Meat,Refrigerator,5,60,2.5,83,Medium
+Meat,Refrigerator,10,38,5.0,88,High
+Vegetables,Refrigerator,10,39,2.9,47,Medium
+Leafy Vegetables,Refrigerator,5,52,4.6,92,Medium
+Milk,Refrigerator,3,59,2.9,73,Low
+Vegetables,Refrigerator,10,40,7.7,79,Medium
+Vegetables,Room Temperature,2,30,27.5,81,Low
+Fruits,Room Temperature,7,47,30.0,45,Medium
+Fruits,Freezer,13,12,-8.9,80,Medium
+Bread,Refrigerator,10,54,2.5,47,Medium
+Bread,Refrigerator,11,95,3.2,51,Medium
+Milk,Room Temperature,2,46,22.3,42,Low
+Meat,Freezer,3,19,-6.6,46,Low
+Vegetables,Freezer,4,74,-14.2,94,Low
+Fruits,Freezer,5,21,-12.0,55,Low
+Meat,Freezer,3,27,-8.8,58,Low
+Meat,Refrigerator,14,23,4.6,64,High
+Fruits,Refrigerator,3,90,5.5,78,Low
+Meat,Refrigerator,10,99,3.4,70,High
+Meat,Room Temperature,9,61,20.7,67,High
+Meat,Freezer,9,66,-6.6,86,High
+Meat,Refrigerator,4,68,3.3,65,Medium
+Vegetables,Room Temperature,5,65,26.4,81,Medium
+Bread,Refrigerator,9,59,7.9,90,Medium
+Cooked Food,Refrigerator,5,99,8.0,76,Medium
+Vegetables,Refrigerator,10,76,7.9,37,Medium
+Fruits,Refrigerator,1,18,4.5,51,Low
+Bread,Freezer,2,45,-13.9,72,Low
+Fruits,Refrigerator,11,98,3.9,64,Medium
+Fruits,Freezer,9,46,-10.2,52,Medium
+Meat,Room Temperature,1,28,31.7,55,Low
+Fruits,Refrigerator,13,89,2.6,39,High
+Vegetables,Refrigerator,1,66,4.7,49,Low
+Leafy Vegetables,Freezer,14,61,-10.8,82,High
+Fruits,Refrigerator,11,48,3.1,35,Medium
+Cooked Food,Freezer,14,21,-15.9,86,High
+Cooked Food,Refrigerator,14,44,4.1,55,High
+Fruits,Room Temperature,5,49,22.0,84,Medium
+Leafy Vegetables,Freezer,11,94,-11.2,50,High
+Milk,Refrigerator,3,37,5.2,85,Low
+Leafy Vegetables,Refrigerator,7,23,3.1,69,Medium
+Cooked Food,Freezer,4,48,-5.5,86,Low
+Fruits,Refrigerator,7,100,2.9,38,Medium
+Cooked Food,Refrigerator,13,53,3.0,83,High
+Fruits,Refrigerator,7,44,5.7,51,Medium
+Bread,Refrigerator,2,70,3.6,56,Low
+Cooked Food,Room Temperature,5,69,22.9,37,Medium
+Bread,Room Temperature,12,37,31.6,93,High
+Vegetables,Refrigerator,8,98,2.3,74,Medium
+Fruits,Freezer,8,63,-11.1,94,Medium
+Cooked Food,Refrigerator,7,15,5.3,69,Medium
+Vegetables,Refrigerator,5,47,3.5,44,Low
+Fruits,Room Temperature,9,93,20.5,55,High
+Milk,Freezer,9,45,-6.6,61,Medium
+Milk,Refrigerator,13,61,6.3,43,High
+Milk,Refrigerator,9,65,3.3,91,High
+Milk,Room Temperature,14,74,26.7,93,High
+Leafy Vegetables,Freezer,12,89,-9.3,69,High
+Cooked Food,Refrigerator,2,23,7.4,70,Low
+Cooked Food,Refrigerator,6,57,6.8,77,Medium
+Milk,Room Temperature,6,58,25.3,76,High
+Milk,Refrigerator,1,23,5.9,38,Low
+Bread,Refrigerator,3,71,6.0,67,Low
+Fruits,Refrigerator,11,20,4.9,82,Medium
+Vegetables,Refrigerator,5,51,7.4,84,Medium
+Fruits,Refrigerator,3,40,5.1,71,Low
+Bread,Freezer,5,24,-12.3,89,Low
+Cooked Food,Room Temperature,4,84,24.9,70,Medium
+Vegetables,Room Temperature,3,32,24.9,58,Low
+Milk,Freezer,2,33,-10.2,62,Low
+Cooked Food,Refrigerator,11,87,4.4,77,High
+Leafy Vegetables,Refrigerator,12,89,3.9,89,High
+Milk,Freezer,7,13,-13.9,49,Medium
+Fruits,Refrigerator,9,35,4.3,52,Medium
+Cooked Food,Room Temperature,13,74,26.8,74,High
+Meat,Room Temperature,12,80,21.7,81,High
+Cooked Food,Refrigerator,1,100,6.5,59,Low
+Vegetables,Refrigerator,14,60,2.8,74,High
+Vegetables,Refrigerator,1,10,7.5,35,Low
+Meat,Refrigerator,1,89,4.9,52,Low
+Bread,Refrigerator,6,24,3.6,93,Low
+Bread,Refrigerator,11,20,3.4,70,Medium
+Meat,Room Temperature,2,71,22.4,87,Medium
+Meat,Freezer,5,64,-9.1,48,Medium
+Milk,Freezer,4,15,-8.1,52,Low
+Fruits,Refrigerator,6,25,7.7,94,Medium
+Vegetables,Refrigerator,14,63,6.0,95,High
+Fruits,Refrigerator,5,33,5.3,88,Low
+Leafy Vegetables,Refrigerator,3,72,4.7,54,Low
+Milk,Freezer,2,47,-9.3,83,Low
+Leafy Vegetables,Refrigerator,3,63,7.1,62,Low
+Fruits,Refrigerator,2,53,3.8,86,Low
+Cooked Food,Freezer,9,43,-8.6,86,High
+Vegetables,Refrigerator,6,41,4.4,61,Medium
+Vegetables,Refrigerator,7,73,6.8,53,Medium
+Cooked Food,Refrigerator,12,56,7.8,94,High
+Meat,Room Temperature,9,64,27.0,62,High
+Bread,Room Temperature,3,62,21.9,61,Low
+Meat,Refrigerator,6,28,5.5,75,Medium
+Cooked Food,Freezer,5,93,-10.8,92,Medium
+Vegetables,Freezer,12,61,-6.9,42,Medium
+Leafy Vegetables,Freezer,5,75,-14.8,95,Low
+Meat,Refrigerator,2,90,6.2,60,Low
+Vegetables,Refrigerator,11,94,7.5,36,High
+Milk,Freezer,6,70,-6.7,53,Medium
+Meat,Refrigerator,2,81,4.4,63,Low
+Bread,Room Temperature,10,52,30.5,76,High
+Cooked Food,Room Temperature,3,77,29.9,69,Medium
+Fruits,Refrigerator,13,39,3.0,43,High
+Fruits,Room Temperature,12,74,24.6,64,High
+Bread,Freezer,6,17,-17.4,49,Low
+Meat,Room Temperature,8,93,26.9,51,High
+Bread,Refrigerator,8,32,5.4,78,Medium
+Vegetables,Freezer,10,69,-14.8,84,Medium
+Cooked Food,Room Temperature,1,11,28.8,44,Low
+Leafy Vegetables,Room Temperature,5,24,31.5,71,Medium
+Leafy Vegetables,Freezer,3,99,-12.0,60,Low
+Leafy Vegetables,Room Temperature,10,85,31.8,55,High
+Fruits,Refrigerator,1,30,3.9,78,Low
+Bread,Refrigerator,8,21,5.2,50,Medium
+Cooked Food,Refrigerator,11,84,7.5,81,High
+Cooked Food,Room Temperature,14,100,29.4,59,High
+Leafy Vegetables,Room Temperature,5,25,26.7,40,Medium
+Meat,Room Temperature,1,70,23.7,83,Low
+Milk,Refrigerator,11,35,3.1,86,High
+Fruits,Room Temperature,1,77,24.0,69,Low
+Fruits,Freezer,1,48,-9.4,79,Low
+Cooked Food,Refrigerator,14,21,7.0,44,High
+Vegetables,Room Temperature,13,39,28.0,55,High
+Vegetables,Room Temperature,10,59,29.1,56,High
+Milk,Room Temperature,12,82,27.0,81,High
+Cooked Food,Refrigerator,2,11,5.5,56,Low
+Cooked Food,Room Temperature,2,97,22.9,79,Medium
+Milk,Freezer,5,69,-13.1,53,Low
+Fruits,Room Temperature,1,89,21.1,71,Low
+Fruits,Freezer,13,94,-6.1,47,High
+Fruits,Freezer,1,23,-13.7,69,Low
+Leafy Vegetables,Refrigerator,8,18,5.4,39,Medium
+Bread,Room Temperature,12,80,24.0,79,High
+Vegetables,Refrigerator,11,27,7.4,36,High
+Bread,Freezer,4,23,-17.5,95,Low
+Bread,Refrigerator,7,52,6.3,86,Medium
+Leafy Vegetables,Refrigerator,8,93,6.4,70,Medium
+Leafy Vegetables,Freezer,11,82,-10.3,90,High
+Milk,Refrigerator,6,57,5.1,84,Medium
+Meat,Room Temperature,4,27,25.1,43,Medium
+Bread,Refrigerator,12,40,7.0,80,Medium
+Bread,Freezer,13,72,-15.7,58,Medium
+Vegetables,Freezer,7,24,-8.2,87,Medium
+Bread,Refrigerator,1,57,6.6,87,Low
+Fruits,Room Temperature,8,11,24.8,93,Medium
+Leafy Vegetables,Refrigerator,13,39,5.5,62,High
+Meat,Room Temperature,14,32,31.0,46,High
+Cooked Food,Room Temperature,6,71,24.9,42,High
+Fruits,Freezer,3,93,-14.0,45,Low
+Milk,Refrigerator,9,23,7.7,95,High
+Milk,Refrigerator,12,82,6.8,70,High
+Bread,Room Temperature,14,69,30.4,56,High
+Bread,Room Temperature,1,98,20.5,62,Low
+Cooked Food,Refrigerator,5,92,8.0,45,Medium
+Cooked Food,Refrigerator,7,19,2.9,69,Medium
+Cooked Food,Refrigerator,2,77,5.1,60,Low
+Meat,Freezer,13,63,-17.7,83,High
+Fruits,Refrigerator,2,20,6.8,36,Low
+Meat,Refrigerator,10,33,7.5,91,High
+Vegetables,Freezer,13,94,-14.4,38,High
+Meat,Refrigerator,10,59,5.8,60,High
+Cooked Food,Room Temperature,11,40,23.0,55,High
+Cooked Food,Refrigerator,4,39,5.1,78,Medium
+Meat,Freezer,12,86,-12.2,75,High
+Milk,Room Temperature,6,35,29.3,47,High
+Cooked Food,Freezer,1,24,-16.4,64,Low
+Vegetables,Refrigerator,6,62,7.1,67,Medium
+Cooked Food,Room Temperature,5,100,30.0,63,Medium
+Fruits,Room Temperature,8,26,23.3,36,Medium
+Leafy Vegetables,Refrigerator,4,33,4.3,45,Low
+Vegetables,Refrigerator,7,52,5.2,65,Medium
+Leafy Vegetables,Refrigerator,6,28,2.2,50,Medium
+Cooked Food,Freezer,5,69,-11.3,68,Medium
+Vegetables,Room Temperature,10,33,23.6,44,High
+Fruits,Room Temperature,5,21,20.8,79,Medium
+Fruits,Room Temperature,11,33,28.7,46,High
+Cooked Food,Room Temperature,4,94,29.0,74,Medium
+Meat,Refrigerator,13,95,4.6,86,High
+Cooked Food,Refrigerator,6,56,4.5,56,Medium
+Vegetables,Room Temperature,1,46,31.0,43,Low
+Fruits,Refrigerator,3,84,5.2,35,Low
+Fruits,Freezer,12,27,-7.1,56,Medium
+Leafy Vegetables,Freezer,13,69,-17.0,42,High
+Vegetables,Refrigerator,3,71,5.5,88,Low
+Meat,Room Temperature,9,74,31.1,94,High
+Milk,Refrigerator,9,29,7.4,94,High
+Cooked Food,Freezer,2,75,-16.1,91,Low
+Vegetables,Freezer,7,65,-6.6,70,Medium
+Vegetables,Freezer,10,89,-15.0,54,Medium
+Meat,Refrigerator,14,25,5.1,62,High
+Fruits,Refrigerator,12,65,3.7,50,High
+Cooked Food,Refrigerator,2,85,7.2,86,Low
+Fruits,Refrigerator,4,35,4.4,61,Low
+Fruits,Refrigerator,7,77,5.8,58,Medium
+Milk,Refrigerator,3,19,3.5,77,Low
+Milk,Freezer,8,75,-10.5,57,Medium
+Vegetables,Refrigerator,1,65,4.4,56,Low
+Leafy Vegetables,Refrigerator,2,27,5.2,48,Low
+Leafy Vegetables,Freezer,1,16,-6.3,39,Low
+Meat,Room Temperature,5,77,21.7,37,Medium
+Meat,Room Temperature,11,31,32.0,59,High
+Vegetables,Room Temperature,3,55,20.4,95,Medium
+Bread,Freezer,14,15,-10.1,50,Medium
+Milk,Room Temperature,4,97,27.8,74,Medium
+Vegetables,Room Temperature,1,59,28.2,54,Low
+Vegetables,Room Temperature,5,94,23.1,53,Medium
+Bread,Refrigerator,11,24,7.9,44,Medium
+Bread,Refrigerator,2,28,5.9,69,Low
+Milk,Refrigerator,2,65,7.4,75,Low
+Meat,Refrigerator,12,65,6.4,56,High
+Leafy Vegetables,Room Temperature,9,81,28.4,67,High
+Meat,Refrigerator,5,94,6.2,64,Medium
+Fruits,Refrigerator,11,84,4.9,51,Medium
+Vegetables,Refrigerator,12,22,7.5,77,High
+Vegetables,Freezer,6,38,-14.7,68,Low
+Milk,Refrigerator,8,93,2.6,39,High
+Meat,Room Temperature,1,59,22.3,65,Low
+Fruits,Freezer,5,88,-6.8,58,Low
+Milk,Refrigerator,9,61,5.0,83,High
+Vegetables,Room Temperature,3,14,26.7,53,Medium
+Bread,Refrigerator,14,53,6.3,93,High
+Bread,Refrigerator,14,85,5.3,72,High
+Meat,Room Temperature,4,69,25.6,42,Medium
+Fruits,Freezer,6,22,-5.0,59,Low
+Meat,Refrigerator,3,29,5.1,88,Low
+Meat,Room Temperature,8,87,23.7,50,High
+Leafy Vegetables,Refrigerator,2,99,7.3,77,Low
+Cooked Food,Room Temperature,6,78,28.3,82,High
+Meat,Room Temperature,8,18,20.5,77,High
